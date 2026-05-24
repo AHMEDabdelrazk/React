@@ -1,11 +1,11 @@
 # React
-*how to create a project 
+**how to create a project** 
 
 1- environment 
 
 2- create new react project
 
-*react topics
+**react topics**
 
 1- create new project
 
