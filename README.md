@@ -35,6 +35,8 @@
 
 14- array state
 
+15- props drilling
+
 15- useContext
 
 16- react router
